@@ -5,10 +5,10 @@
 #title {
     /* background-color: #E7C193; */
     font-family: 'Lobster Two', cursive;
-    font-size: 25px;
+    font-size: 150%;
 }
 #title .navbar-brand{
-    font-size: 30px;
+    font-size: 150%;
 }
 .container-fluid{
     padding: 3% 1%;
