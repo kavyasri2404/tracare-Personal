@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two&display=swap');
+#title {
+    /* background-color: #E7C193; */
+    font-family: 'Lobster Two', cursive;
+    font-size: 20px;
+}
+.container-fluid{
+    padding: 3% 1%;
+    font-family: 'Dancing Script', cursive;
+}
+.container-fluid img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+#container-fluid .img-fluid{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+/* #title .row .btn{
+    font-family: 'Lobster Two', cursive;
+    font-weight: 300;
+    font-size: 20px;
+    background-color: antiquewhite;
+}
+h1{
+    font-family: 'Lobster Two', cursive;
+} */
